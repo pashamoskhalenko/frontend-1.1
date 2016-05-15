@@ -1,0 +1,51 @@
+.heading{
+    font-family: Arial, sans-serif;
+    background-color:white;
+    height: 200px;
+    width:inherit;
+    display: inline-block;
+    position: relative;
+}
+.general{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    background-color: aqua;
+    height: 750px;
+    width: 1010px;
+}
+.searchblock{
+    display: inline-block;
+    position: relative;
+}
+.searchtextblk{
+    border:2px solid yellow;
+    margin-top: 25px;
+    margin-left: 20px;
+    border-radius:5px ;
+    height: 30px;
+    width: 350px;
+}
+input[type=button]{
+    background-color: white;
+
+}
+.img{
+    float: left;
+}
+.searcbuttonblk{
+
+    background-color: white;
+    border: 0;
+    border-left: 0.5px solid gainsboro;
+    color: darkblue;
+    font-family: "Arial Black";
+
+}
+.right-very-top{
+    height: inherit;
+    width: 200px;
+    background-color: coral;
+    margin-left: 700px;
+}
