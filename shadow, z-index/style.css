@@ -1,0 +1,62 @@
+body{
+	font-size: 30px;
+	background: url(../img/images.png) center repeat-y;
+}
+
+
+/*div {*/
+	/*!*margin-top: 200px;*!*/
+	/*!*margin-left: 200px;*!*/
+	/*!*height: 100px;*!*/
+	/*!*width: 100px;*!*/
+	/*!*background-color: red;*!*/
+	/*position: absolute;*/
+	/*top:50%;*/
+	/*transform: translateY(-50%);*/
+	/*left:50%;*/
+	/*transform: translateX(-50%);*/
+	/*color: #333;*/
+	/*background: url(../img/black_24.png) no-repeat -364px -243px;*/
+	/*width: 25px;*/
+	/*height: 24px;*/
+
+
+
+
+}
+
+/*div:hover{*/
+	/*transform: scale(1.5) rotate(15deg);*/
+
+/*@keyframes test {*/
+	/*from{*/
+		/*width: 50px;*/
+		/*height: 50px;*/
+	/*}*/
+	/*to{*/
+	/*transform: scale(2);*/
+	/*}*/
+/*}*/
+
+i{
+	font-size: 300px!important;
+	color: #801148;
+
+}
+
+.rot-div{
+	animation-name: spin;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+@keyframes spin {
+	from{
+		/*width: 200px;*/
+		/*height: 150px;*/
+/*}*/
+	to{
+		transform: rotate(360deg);
+	}
+}
