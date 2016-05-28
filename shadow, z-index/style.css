@@ -1,6 +1,5 @@
 body{
 	font-size: 30px;
-	background: url(../img/images.png) center repeat-y;
 }
 
 
@@ -23,7 +22,7 @@ body{
 
 
 
-}
+
 
 /*div:hover{*/
 	/*transform: scale(1.5) rotate(15deg);*/
@@ -44,19 +43,3 @@ i{
 
 }
 
-.rot-div{
-	animation-name: spin;
-	animation-duration: 5s;
-	animation-iteration-count: infinite;
-	animation-timing-function: linear;
-}
-
-@keyframes spin {
-	from{
-		/*width: 200px;*/
-		/*height: 150px;*/
-/*}*/
-	to{
-		transform: rotate(360deg);
-	}
-}
