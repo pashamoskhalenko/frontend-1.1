@@ -1,8 +1,6 @@
-body{
+body {
 	font-size: 30px;
 }
-
-
 /*div {*/
 	/*!*margin-top: 200px;*!*/
 	/*!*margin-left: 200px;*!*/
@@ -38,8 +36,37 @@ body{
 /*}*/
 
 i{
-	font-size: 300px!important;
-	color: #801148;
+	font-size: 37px!important;
+	color: #193580;
 
 }
+
+
+.rot-div{
+	display: block;
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%);
+	left: 50%;
+	transform: translateX(50%);
+	transform: rotate(360deg);
+	animation-name: rotate;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+
+}
+
+
+
+
+@keyframes rotate {
+	0%{
+		transform: rotate(0deg);
+	}
+	100%{
+		transform: rotate(360deg);
+	}
+}
+
 
