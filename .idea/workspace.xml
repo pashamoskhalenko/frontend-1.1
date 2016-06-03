@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b52e797b-fc45-43ca-85e8-5d16e9be8182" name="Default" comment="" />
+=======
+    <list default="true" id="b52e797b-fc45-43ca-85e8-5d16e9be8182" name="Default" comment="">
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVG/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVG/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shadow, z-index/index.html" afterPath="$PROJECT_DIR$/shadow, z-index/index.html" />
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shadow, z-index/style.css" afterPath="$PROJECT_DIR$/shadow, z-index/style.css" />
+    </list>
+>>>>>>> b92c31c2a8ab4d1d8264a3bca8d95676596279bb
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,14 +34,19 @@
     <favorites_list name="untitled" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.48994082">
+    <splitter split-orientation="vertical" split-proportion="0.9">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/shadow, z-index/index.html">
+            <entry file="file://$PROJECT_DIR$/SVG/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+<<<<<<< HEAD
+                <state relative-caret-position="102">
+                  <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+=======
+                <state relative-caret-position="255">
+                  <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
                   <folding />
                 </state>
               </provider>
@@ -38,8 +57,9 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/shadow, z-index/style.css">
+            <entry file="file://$PROJECT_DIR$/SVG/style.css">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state relative-caret-position="168">
                   <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="56" selection-end-column="26" />
                   <folding>
@@ -54,6 +74,15 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="204">
                   <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+=======
+<<<<<<< HEAD
+                <state relative-caret-position="765">
+                  <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+=======
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
+>>>>>>> b92c31c2a8ab4d1d8264a3bca8d95676596279bb
                   <folding />
                 </state>
               </provider>
@@ -82,21 +111,33 @@
         <option value="$PROJECT_DIR$/HB/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/shadow, z-index/index.html" />
         <option value="$PROJECT_DIR$/shadow, z-index/style.css" />
+        <option value="$PROJECT_DIR$/shadow, z-index/index.html" />
+        <option value="$PROJECT_DIR$/SVG/index.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="327" />
+    <option name="y" value="38" />
+    <option name="width" value="626" />
+    <option name="height" value="786" />
+=======
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
+<<<<<<< HEAD
+=======
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
+>>>>>>> b92c31c2a8ab4d1d8264a3bca8d95676596279bb
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -123,37 +164,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="Scratches" />
+=======
+      <pane id="Scratches" />
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
+>>>>>>> b92c31c2a8ab4d1d8264a3bca8d95676596279bb
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="frontend-1.1" />
+              <option name="myItemId" value="untitled" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="frontend-1.1" />
+              <option name="myItemId" value="untitled" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="untitled" />
+=======
               <option name="myItemId" value="frontend-1.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend-1.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend-1.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome-4.6.3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -167,16 +205,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome-4.6.3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="SVG" />
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
+>>>>>>> b92c31c2a8ab4d1d8264a3bca8d95676596279bb
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,7 +226,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../my_cool_proj" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -262,11 +304,20 @@
       <workItem from="1463681661665" duration="10109000" />
       <workItem from="1464069292821" duration="17563000" />
       <workItem from="1464193639384" duration="6481000" />
+<<<<<<< HEAD
       <workItem from="1464625926216" duration="24000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1464294623901" duration="945000" />
+=======
+      <workItem from="1464362997994" duration="10847000" />
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
+>>>>>>> b92c31c2a8ab4d1d8264a3bca8d95676596279bb
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="52606000" />
   </component>
   <component name="ToolWindowManager">
@@ -274,8 +325,38 @@
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3783784" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="53527000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="327" y="38" width="626" height="786" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37704918" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+>>>>>>> b92c31c2a8ab4d1d8264a3bca8d95676596279bb
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="63429000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31239936" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -286,7 +367,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
@@ -319,6 +399,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding>
             <marker date="1464201037323" expanded="true" signature="148:190" placeholder="..." />
           </folding>
@@ -329,6 +410,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+=======
+>>>>>>> b92c31c2a8ab4d1d8264a3bca8d95676596279bb
           <folding />
         </state>
       </provider>
@@ -446,31 +529,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/font-awesome-4.6.3/css/font-awesome.css">
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.6.3/css/font-awesome.css" />
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/shadow, z-index/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="765">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.6.3/HELP-US-OUT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shadow, z-index/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+<<<<<<< HEAD
+        <state relative-caret-position="102">
+          <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+=======
+        <state relative-caret-position="193">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/shadow, z-index/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="168">
           <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="56" selection-end-column="26" />
           <folding>
             <marker date="1464201037323" expanded="true" signature="148:190" placeholder="..." />
           </folding>
+=======
+        <state relative-caret-position="100">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SVG/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVG/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+>>>>>>> b92c31c2a8ab4d1d8264a3bca8d95676596279bb
+        </state>
+      </provider>
+    </entry>
+>>>>>>> e9fee898334b8e9436cc1478e31b7c6fd196a7a7
   </component>
 </project>
