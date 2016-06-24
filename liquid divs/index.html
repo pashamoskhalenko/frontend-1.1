@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<div id="wrapper">
+    <div id="1" class="block">
+        Lorem ipsum dolor.
+    </div>
+    <div id="2" class="block">
+        Lorem ipsum dolor sit amet.
+    </div>
+    <div class="background bg1"></div>
+    <div class="background bg2"></div>
+</div>
+
+
+
+
+<style>
+    #wrapper {
+        /*border: 1px solid black;*/
+        position: relative;
+        z-index: 1;
+        min-width: 400px;
+    }
+/*clearfix*/
+    #wrapper:after {
+        display: block;
+        content: " ";
+        height: 0;
+        clear: both;
+    }
+
+    .block {
+        position: relative;
+        float: left;
+        vertical-align: top;
+        width: 200px;
+        text-align: justify;
+        min-height: 200px;
+        padding: 10px;
+        z-index: 2;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    #2 {
+        margin-left: 200px;
+    }
+
+
+    .background {
+        position: absolute;
+        top: 0px;
+        bottom: 0;
+        border-radius: 3px;
+        border: 2px solid lightgray;
+        width: 200px;
+        z-index: 0;
+    }
+
+    .bg1 {
+        background-color: #6cee25;
+
+    }
+
+    .bg2 {
+        left: 200px;
+        background-color: #aa3915;
+    }
+
+
+
+</style>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+<div class="firstOne test"></div><!--
+--><div class="secOne test"></div><!--
+--><div class="thirdOne test"></div>
+
+<style>
+	.firstOne {
+		background-color: yellow;
+
+	}
+	.secOne{
+		background-color: blue;
+
+
+	}
+	.thirdOne{
+		background-color: green;
+
+
+	}
+	.test{
+		height: 400px;
+		width: 33%;
+		display: inline-block;
+		/*float: left;*/
+		box-sizing: border-box;
+	}
+
+	@media (max-width:650px) {
+		.test{
+			display: block;
+			width:100%;
+		}
+		.secOne {
+			background-color: #0f0f0f;
+		}
+	}
+
+</style>
+
+
+
+</body>
+</html>

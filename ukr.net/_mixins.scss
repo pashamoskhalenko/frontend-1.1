@@ -1,0 +1,15 @@
+@import "variables";
+
+@mixin font($font-sz){
+  @if (type_of($font-sz) == number) {
+    font-family: Arial sans-serif;
+    font-size: #{$font-sz}px;
+  }
+  @else {
+    font-family: Arial sans-serif;
+    font-size: 14px;
+
+  }
+
+
+}
