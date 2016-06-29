@@ -6,12 +6,15 @@ var arrayName = [1, 17,,, 54, "sds", "",, 3121];
 var arrayWithoutBlanks = [];
 
 /**
- * Remove blanks from array by pushing numbers to the new array
- * @param arrayName  {Array} array that going to "lose weight"
+ * Removes blanks from array by pushing numbers to the new array.
+ * @param arrayName {Array} array that going to "lose weight"
  * @result arrayWithoutBlanks {Array} new array that will get ONLY numbers
  */
 
 function pusshingToNewArray (arrayName) {
+    if (!arrayName.length) {
+        throw new Error("Empty Array!");
+    }
     for (var index = 0; index < arrayName.length; index++) {
         if (typeof arrayName[index] == "number") {
             arrayWithoutBlanks.push(arrayName[index]);
@@ -45,9 +48,8 @@ function removeBlanks(arrayName) {
 function compareFunction(previous, next) {
     return previous - next;
 }
-/**
- * Printing sorted array without blanks
- */
 
 console.log(pusshingToNewArray(arrayName).sort(compareFunction));
 console.log(removeBlanks(arrayName).sort(compareFunction));
+
+throw new Error("");
